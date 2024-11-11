@@ -9,7 +9,8 @@ class ApiView(generics.GenericAPIView):
         data = {
             'name': 'Boopathy',
             'role': 'backend developer',
-            'org':'Sense7ai'
+            'org':'Sense7ai',
+            'yoe':1.5
         }
 
         return JsonResponse(data)
