@@ -25,7 +25,7 @@ jobs:
           pip install -r requirements.txt
 
       # Assuming CodeRabbit is available as a GitHub Action or external service
-            - name: Run CodeRabbit AI Code Review
+      - name: Run CodeRabbit AI Code Review
         run: |
           # Run CodeRabbit AI code analysis and save results to result.txt
           curl -X POST "https://api.coderabbit.ai/review" \
