@@ -11,6 +11,5 @@ class ApiView(generics.GenericAPIView):
             'role': 'backend developer',
             'org':'Sense7ai'
         }
-        print(data,'************')
 
         return JsonResponse(data)
