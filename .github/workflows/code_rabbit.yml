@@ -27,34 +27,14 @@ jobs:
       # Assuming CodeRabbit is available as a GitHub Action or external service
       - name: Run CodeRabbit AI Code Review
         run: |
-          # Run CodeRabbit AI code analysis and save results to result.txt
-          curl -X POST "https://api.coderabbit.ai/review" \
-          --header "Authorization: Bearer ${{ secrets.CODERABBIT_API_KEY }}" \
-          --data-urlencode "repo_url=${{ github.repository }}" \
-          --data-urlencode "pr_url=${{ github.event.pull_request.html_url }}" \
-          -o result.txt 
+          # Example command to run CodeRabbit AI code analysis (replace with actual integration)
+          curl -X POST https://api.coderabbit.ai/review --header "Authorization: Bearer ${{ secrets.CODERABBIT_API_KEY }}" --data-urlencode "repo_url=${{ github.repository }}" --data-urlencode "pr_url=${{ github.event.pull_request.html_url }}" 
 
       - name: Comment on PR with Results
-        if: success()
         run: |
-          if [ -s result.txt ]; then
-            # Post the content of result.txt as a comment on the PR
-            curl -X POST "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments" \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            -d '{"body": "CodeRabbit AI Code Review Suggestions:\n\n'$(cat result.txt)'}'
-          else
-            echo "No output from CodeRabbit AI"
-          fi
-      # - name: Run CodeRabbit AI Code Review
-      #   run: |
-      #     # Example command to run CodeRabbit AI code analysis (replace with actual integration)
-      #     curl -X POST https://api.coderabbit.ai/review --header "Authorization: Bearer ${{ secrets.CODERABBIT_API_KEY }}" --data-urlencode "repo_url=${{ github.repository }}" --data-urlencode "pr_url=${{ github.event.pull_request.html_url }}" 
-
-      # - name: Comment on PR with Results
-      #   run: |
-      #     curl -X POST --url https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments \
-      #     -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-      #     -d '{"body": "CodeRabbit AI Code Review Suggestions: \n\n'$(cat result.txt)'}' 
+          curl -X POST --url https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments \
+          -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -d '{"body": "CodeRabbit AI Code Review Suggestions: \n\n'$(cat result.txt)'}' 
 # name: Code Review with CodeRabbit AI
 
 # on:
