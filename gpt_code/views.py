@@ -10,7 +10,9 @@ class ApiView(generics.GenericAPIView):
             'name': 'Boopathy',
             'role': 'backend developer',
             'org':'Sense7ai',
-            'yoe':1.5
+            'yoe':1.5,
+            'devops':'generic',
+            'goal':'SRE'
         }
 
         return JsonResponse(data)
