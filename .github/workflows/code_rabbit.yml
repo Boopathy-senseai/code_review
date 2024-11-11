@@ -40,7 +40,7 @@ jobs:
           if [ -s result.txt ]; then
             # Post the content of result.txt as a comment on the PR
             curl -X POST "https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments" \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_PAT }}" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             -d '{"body": "CodeRabbit AI Code Review Suggestions:\n\n'$(cat result.txt)'}'
           else
             echo "No output from CodeRabbit AI"
