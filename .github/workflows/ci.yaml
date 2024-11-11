@@ -27,7 +27,8 @@ jobs:
         uses: actions/setup-java@v3
         with:
           java-version: '17'
-
+          distribution: 'temurin'  # You can use 'temurin', 'zulu', or 'adoptopenjdk'
+        
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@v1
         with:
