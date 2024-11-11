@@ -19,6 +19,6 @@ from gpt_code import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("api/", views.ApiView.as_view(), name="email_label"),
+    path("api/", views.about.as_view(), name="email_label"),
 ]
 
