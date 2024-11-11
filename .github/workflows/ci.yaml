@@ -66,6 +66,8 @@ jobs:
         uses: SonarSource/sonarcloud-github-action@master
         with:
           projectBaseDir: .
+          extraArgs: |
+            -Dsonar.qualitygate.wait=false
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_CODE }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
