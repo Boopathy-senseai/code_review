@@ -1,3 +1,10 @@
+name: SonarCloud Analysis tool
+
+on:
+  pull_request:
+    branches:
+      - '**'
+
 jobs:
   sonarcloud:
     name: Run SonarCloud Analysis
