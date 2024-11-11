@@ -14,16 +14,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Set up Python and Install Dependencies
-        uses: actions/setup-python@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
-          python-version: '3.8'
+          node-version: '16'  # Set the node version here (e.g., 16.x)
 
-      - name: Install Snyk and Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          pip install snyk
+      - name: Install Snyk CLI
+        run: npm install -g snyk
 
       - name: Run Snyk Code Analysis
         run: snyk code test
@@ -31,9 +28,11 @@ jobs:
       - name: Generate Snyk Report
         run: snyk code test --all-projects --json > snyk-report.json
 
+      - name: Install snyk-to-html for HTML report conversion
+        run: npm install -g snyk-to-html
+
       - name: Upload Report as Comment to PR
         run: |
-          # Convert JSON report to HTML (you need to have snyk-to-html installed in your environment)
           snyk-to-html -i snyk-report.json -o snyk-report.html
           curl -X POST --url https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
@@ -41,4 +40,3 @@ jobs:
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
