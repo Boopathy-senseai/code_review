@@ -1,0 +1,34 @@
+name: CodeRabbit AI Code Review
+
+on:
+  pull_request:
+    branches:
+      - '**'
+
+jobs:
+  review:
+    name: Run CodeRabbit AI Code Review
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: Install CodeRabbit CLI (or integration tool)
+        run: |
+          pip install coderabbit  # This command may vary based on the tool’s documentation
+
+      - name: Run CodeRabbit AI Code Analysis
+        run: coderabbit analyze --pr ${GITHUB_REF}
+
+      - name: Post Comment on PR with Feedback
+        run: |
+          coderabbit analyze --pr ${GITHUB_REF} --json | jq '.feedback' > feedback.txt
+          curl -X POST --url https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -d "{\"body\": \"CodeRabbit AI Review Feedback:\n\n$(cat feedback.txt)\"}"
