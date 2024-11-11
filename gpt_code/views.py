@@ -11,8 +11,10 @@ class ApiView(generics.GenericAPIView):
             'role': 'backend developer',
             'org':'Sense7ai',
             'yoe':1.5,
-            'devops':'generic',
-            'goal':'SRE'
+            'devops':'aws',
+            'goal':'SRE',
+            'cloud':'multicloud'
+
         }
 
         return JsonResponse(data)
