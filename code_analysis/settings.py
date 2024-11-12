@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'role',
     'scheduler',
-    'scheduler_event'
+    'scheduler_event',
+    'jobs'
 ]
 
 MIDDLEWARE = [
