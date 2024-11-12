@@ -1,0 +1,558 @@
+{
+    "parsed_text": [
+        {
+            "Name": "KOTI bala",
+            "Email": "kiranbolisett@gmail.com",
+            "Phone number": "+91 9705038555",
+            "Professional Summary": "Having 3+ years of experience in Software Testing with expertise Manual Testing. Proficient in developing, maintaining, and executing Test Cases. Good Experience in SCRUM process of Agile (Iterative) development methodology. Good Exposure on all the Critical stages of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). Proficient in developing, maintaining, and executing Test Cases. Proficient in Functional, Regression, Smoke, Sanity Testing. Good Exposure on Bug Life Cycle. Extensive Knowledge in analysis of Defect severity and Priority, Defect logging and Defect tracking to its closure. Good Knowledge in Test Automation (Selenium Java). Have Good Knowledge in using TestNG framework, TestNG Annotations, Java and Xpath expressions and other locators. Have Good Knowledge in Hybrid driven framework in Selenium Web Driver with Page Object Model (POM). Exposure in Maven tool to handle dependencies. Have Good Knowledge in Web services Testing. An effective communicator with excellent interpersonal, analytical and client serving abilities. Good Co-ordination with on-site Team and active participation in client sessions. Can adapt quickly to new & innovative technologies, Testing Methodologies and Metrics.",
+            "LinkedIn URL": null,
+            "Job Type": "Full Time",
+            "Total years of Experience": {
+                "Years": 3,
+                "Months": 0
+            },
+            "Preferred Location": null,
+            "Gender": null,
+            "Date of Birth": null,
+            "Address": null,
+            "Code Repository URL": null,
+            "Current Gross Salary": null,
+            "Expected Gross Salary": null,
+            "Roles and Responsibilities": [
+                {
+                    "Company": "Deloitte Consulting India Pvt Ltd,Hyderabad",
+                    "Position": "Analyst",
+                    "Duration": "Dec-2021 till present",
+                    "Responsibilities": null
+                },
+                {
+                    "Company": "Caprus IT Pvt Ltd., Hyderabad, India",
+                    "Position": "Test Analyst",
+                    "Duration": "Mar-2019 to Dec-2022",
+                    "Responsibilities": null
+                }
+            ],
+            "Technical skills": [
+                "Java",
+                "Jira",
+                "Eclipse",
+                "Jenkins",
+                "Jmeter",
+                "Agile-Scrums",
+                "Data Driven Framework",
+                "Key Word Driven Framework",
+                "Hybrid Framework",
+                "BDD Framework",
+                "Windows Operating System",
+                "Manual Testing",
+                "Agile",
+                "Bug Life Cycle",
+                "Test Automation (Selenium Java)",
+                "Xpath expressions",
+                "Page Object Model (POM)",
+                "Maven",
+                "Web services Testing",
+                "Testing Methodologies",
+                "SoapUI",
+                "Postman"
+            ],
+            "Soft skills": [
+                "Effective communicator",
+                "Excellent interpersonal",
+                "Analytical",
+                "Client serving abilities",
+                "Good co-ordination",
+                "Active participation in client sessions",
+                "Interpersonal skills",
+                "Analytical skills",
+                "Client serving abilities",
+                "Co-ordination with on-site Team",
+                "Adaptability to new technologies",
+                "Metrics analysis"
+            ],
+            "Highest Qualification": "BTech (Bachelor of Technology)",
+            "Qualifications": [
+                "BTech (Bachelor of Technology), from JNTUK University.",
+                "Diploma in Electrical and Electronics Engineering from Bapatla Polytechnic College."
+            ],
+            "Projects": [
+                {
+                    "Project Title": "HPE Private Cloud Migration",
+                    "Company Name": "HPE",
+                    "Description": "HPE Cloud Migration is typical Cloud migration project. It involves migrating 300+ applications into HPE private cloud. Each application has different technology stack that is being migrated.",
+                    "skills": "Testing, Scrum, Manual testing, SPIRA tool usage, Defect resolution",
+                    "Duration": "Dec 2021 till  present"
+                },
+                {
+                    "Project Title": "FleetCycle",
+                    "Company Name": "EmpowerMX, USA",
+                    "Description": "FleetCycle suite of software products are designed to support aircraft maintenance industry best practices. They provide point-of-maintenance access, tracking and intelligence to all registered users throughout the airline/MRO organization via secure internet/intranet or cloud-based/mobile technologies.",
+                    "skills": "Analyzing, Testing, JIRA, Defect resolution,Manual testing, Requirement analysis, Functional Testing, Regression Testing, End-to-End Testing, Black Box Testing, Smoke Testing"
+                },
+                {
+                    "Project Title": "PE Private Cloud",
+                    "Company Name": "HPE",
+                    "Description": "HffsE Cloud Migration is typical Cloud migration project. It involves migrating 300+ applications into HPE private cloud. Each application has different technology stack that is being migrated.",
+                    "skills": "Testing, Scrum, Manual testing, SPIRA tool usage, Defect resolution,Requirement analysis, Functional Testing, Regression Testing,End-to-End Testing, Black Box Testing, Smoke Testing"
+                }
+            ],
+            "Certifications and Courses": null
+        },
+        {
+            "Name": "Raja R",
+            "Email": "developerraja02@gmail.com",
+            "Phone number": "9080421858",
+            "LinkedIn URL": null,
+            "Job Type": "Full Time",
+            "Total years of Experience": {
+                "Years": 1,
+                "Months": 8
+            },
+            "Preferred Location": null,
+            "Gender": null,
+            "Date of Birth": null,
+            "Address": "11, Meenatchipuram, Ulundurpet-606107",
+            "Code Repository URL": "github.com/developer-raja",
+            "Current Gross Salary": null,
+            "Expected Gross Salary": null,
+            "Professional Summary": "A Full stack developer with 1.8 years of experience in Javascript, React JS, Node JS, Express JS, MongoDB, PHP, Redis, SQL and others.",
+            "Roles and Responsibilities": [
+                {
+                    "Company": "Guvi",
+                    "Position": "Software Engineer - 1",
+                    "Duration": "Feb 2021 - Jan 2022",
+                    "Responsibilities": "Create a product API using PHP, MongoDB, Redis and Rendering on the frontend using Ajax. Build a product UBERGIG like fiverr.com and work on the payment gateway, AWS and many more."
+                },
+                {
+                    "Company": "Vakil Search",
+                    "Position": "Software Engineer",
+                    "Duration": "Feb 2022 - Present",
+                    "Responsibilities": "Build a Accounting software product KITAAB like zoho books, handling frontend and backend using PHP and React. Building a CRM software product, handling a design, API integration and much more related on frontend."
+                }
+            ],
+            "Technical skills": [
+                "Javascript",
+                "React",
+                "Node Js",
+                "Express Js",
+                "MongoDB",
+                "SQL",
+                "PHP",
+                "Redis"
+            ],
+            "Soft skills": [
+                "Communication",
+                "Problem-solving skills",
+                "Teamwork and collaboration",
+                "Adaptability",
+                "Time management and organization",
+                "Creativity",
+                "Attention to detail"
+            ],
+            "Highest Qualification": "B.E in Computer Science",
+            "Qualifications": [
+                "Paavai Engineering College, B.E in Computer Science, 2016 - 2020"
+            ],
+            "Projects": [
+                {
+                    "Project Title": "E-commerce web app with payment gateway",
+                    "Company Name": null,
+                    "Description": null,
+                    "Skills": null
+                },
+                {
+                    "Project Title": "Bootcamp organizing API using Node js",
+                    "Company Name": null,
+                    "Description": null,
+                    "Skills": null
+                },
+                {
+                    "Project Title": "Social media project",
+                    "Company Name": null,
+                    "Description": null,
+                    "Skills": null
+                },
+                {
+                    "Project Title": "MovieDB webapp using API",
+                    "Company Name": null,
+                    "Description": null,
+                    "Skills": null
+                },
+                {
+                    "Project Title": "Exercise tracker",
+                    "Company Name": null,
+                    "Description": null,
+                    "Skills": null
+                },
+                {
+                    "Project Title": "Blog app and much more",
+                    "Company Name": null,
+                    "Description": null,
+                    "Skills": null
+                }
+            ],
+            "Certifications and Courses": "Completed 3 specialization course in full stack web development"
+        },
+        {
+            "Name": "Karthikeyan Y",
+            "Email": "Ykarthik41@gmail.com",
+            "Phone number": "+91 9629287036",
+            "LinkedIn URL": "https://www.linkedin.com/in/yuvikarthi-digital-marketing/",
+            "Professional Summary": "A highly skilled and experienced Digital Marketing professional with a proven track record of developing and implementing successful strategies. With 9 years of experience in the field, I possess deep knowledge of SEO best practices, technical expertise, Campaign management and a strong analytical mindset.",
+            "Job Type": "Full Time",
+            "Total Years of Experience": {
+                "Years": 9,
+                "Months": 0
+            },
+            "Preferred Location": "None",
+            "Gender": "None",
+            "Date of Birth": "None",
+            "Address": "None",
+            "Code Repository URL": "None",
+            "Current Gross Salary": "None",
+            "Expected Gross Salary": "None",
+            "Roles and Responsibilities": [
+                {
+                    "Company": "Thoughtbees Technologies",
+                    "Position": "Digital Marketing Specialist",
+                    "Duration": "May 2020 - July 2023",
+                    "Responsibilities": "Responsible for developing and implementing effective SEO strategies, campaign strategies and social media handlers to deliver organic traffic, improve search engine ranking, brand awareness and Maximum ROI."
+                },
+                {
+                    "Company": "Texila Education And Management Service",
+                    "Position": "Sr SEO Analyst",
+                    "Duration": "OCT 2019 - MAY 2020",
+                    "Responsibilities": "Taking care of all aspects of the SEO landscape of one of the university websites. Developed & implemented the best SEO strategy to achieve top SERP results for targeted keywords and improve traffic & conversions through organic. Managed and optimized local SEO efforts, including local business listings, Google My Business, and location-based keyword targeting."
+                },
+                {
+                    "Company": "Janatics India Private Limited",
+                    "Position": "Digital Marketing Executive",
+                    "Duration": "SEP 2018 - OCT 2019",
+                    "Responsibilities": "Responsible for the company's online presence like website, social, shopping portal and E-mail. Developed and implemented a result-oriented and data-driven SEO strategy, social media campaigns and paid campaigns. Responsible for E-commerce website presence by implementing the best SEO techniques to reach a target audience."
+                },
+                {
+                    "Company": "Angler Technologies Private Limited",
+                    "Position": "Sr SEO Analyst",
+                    "Duration": "Aug 2015 - Aug 2018",
+                    "Responsibilities": "Managed multiple client projects from various industries to improve their online presence through all mediums like search, paid, social & E-mail. Managed multiple projects and monitored milestones through project completion. Measured and reported performance of all Internet Marketing campaigns, and assess against goals (ROI and KPIs)."
+                },
+                {
+                    "Company": "V Serve E-Business Solution",
+                    "Position": "Jr SEO Analyst",
+                    "Duration": "April 2014 - June 2015",
+                    "Responsibilities": "Implemented keyword analysis and off-page activities for given projects. Performed keyword research and assignments. Optimized content for chosen keywords including titles, meta description and link anchor text. Built links to sites and advised on content creation for continued link building. Boosted website traffic by creating an integrated social media strategy."
+                }
+            ],
+            "Technical Skills": [
+                "SQL",
+                "Google Analytics & Search console",
+                "Google Tag Manager",
+                "Google Ads & Social Media Ads",
+                "Bidding strategies",
+                "Technical SEO",
+                "Conversion Ratio Optimization",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Data studio"
+            ],
+            "Soft Skills": [
+                "Digital Marketing Strategy development",
+                "Campaign management",
+                "Team management",
+                "Communication",
+                "Project Management",
+                "Strategy",
+                "Reporting",
+                "Team Management",
+                "Project coordination",
+                "Client coordination",
+                "Cross-team function collaboration"
+            ],
+            "Highest Qualification": "M.Sc (Computer Science)",
+            "Qualifications": [
+                "M.Sc (Computer Science). Dr N.G.P College of Arts and Science (Coimbatore, 2010 - 2012)",
+                "B.Sc (Computer Science) . Kovai Kalaimagal College of Arts and Science (Coimbatore, 2007 - 2010)"
+            ],
+            "Projects": [
+                {
+                    "Project Title": "Google AdWords",
+                    "Company Name": "None",
+                    "Description": "improved 5X conversion ratio in six months for ERP product client based in Saudi Arabia (2021)",
+                    "skills": "data-driven approach, Google Tag Manager , Data Studio"
+                },
+                {
+                    "Project Title": "Project Management",
+                    "Company Name": "None",
+                    "Description": "Gained 3 times more project billing during renewal of the project by explaining importance of Digital marketing and successful SEO result in six months. (2016)",
+                    "skills": "Project management,Client Coordination, Communication, Planning,Digital marketing, SEO"
+                },
+                {
+                    "Project Title": "E-commerce",
+                    "Company Name": "None",
+                    "Description": "Analyzed and implemented data driven approach for E-commerce website by using tools like Google tag manager and data studio. (2018)",
+                    "skills": "Analysis, Data-driven approach,Google Tag Manager, Data Studio"
+                }
+            ],
+            "Certifications and Courses": "Google Analytics 4, Google Ads Search Campaign"
+        },
+        {
+            "Name": "Samantha",
+            "Email": null,
+            "Phone number": null,
+            "Professional Summary": "Detail oriented and analytical financial accounting professional with skills covering many areas, including cash management, financial statements, budget, audit preparation and tax preparation.",
+            "LinkedIn URL": null,
+            "Job Type": null,
+            "Total years of Experience": {
+                "Years": null,
+                "Months": null
+            },
+            "Preferred Location": "Cudahy, WI",
+            "Gender": null,
+            "Date of Birth": null,
+            "Address": null,
+            "Code Repository URL": null,
+            "Current Gross Salary": null,
+            "Expected Gross Salary": null,
+            "Roles and Responsibilities": [
+                {
+                    "Company": "Childrens Wisconsin",
+                    "Position": "Senior Accountant",
+                    "Duration": "December 2017 to January 2021",
+                    "Responsibilities": "Performed accounting tasks related to the month-end close including preparation and posting of journal entries and general ledger account reconciliations. Prepared month-end financial statements for assigned entities including statements of revenue and expense, balance sheets, cash flows and net assets. Prepared 990 schedules and support for assigned entities. Prepared monthly inventory account reconciliations and participated in the yearly sample inventory count."
+                },
+                {
+                    "Company": "Medical College of Wisconsin",
+                    "Position": "Senior Accountant",
+                    "Duration": "July 2016 to December 2017",
+                    "Responsibilities": "Prepared monthly financial statements and supporting schedules, including analysis of variances from budget and the prior year balances, cash flow support and non-operating income reporting. Updated, maintained, and distributed monthly reporting packages to management and the Board of Directors. Completed assigned balance sheet reconciliations. Responsible for the timely investigation and resolution of any variances identified."
+                },
+                {
+                    "Company": "Medical College of Wisconsin",
+                    "Position": "Accountant II  Controllers Office",
+                    "Duration": "January 2012 to July 2016",
+                    "Responsibilities": "Recorded daily banking transactions to the general ledger, including lock box receipts, credit cards, wires and NSF checks. Reconciled and remitted daily cash receipt batches and worked with proper staff in order to correct errors. Prepared annual work papers for the financial audit."
+                },
+                {
+                    "Company": "Medical College of Wisconsin",
+                    "Position": "Accountant II - Sponsored Programs",
+                    "Duration": "July 2010 to January 2012",
+                    "Responsibilities": "Set up Oracle accounts for federal grants and contracts via paper or eBridge. Reviewed all documentation and budgets to ensure complete and accurate information was received. Created monthly and quarterly invoices for submission to external sponsors. Prepared monthly financial status reports, reviews and final invoices."
+                },
+                {
+                    "Company": "Childrens Hospital of Wisconsin",
+                    "Position": "Accounting Technician  Finance",
+                    "Duration": "June 2008 to July 2010",
+                    "Responsibilities": "Reconciled cash clearing accounts and various other balance sheet accounts, worked with proper staff in order to correct errors and posted necessary journal entries. Balanced and reconciled revenues for month-end close and worked with the IS department to correct discrepancies. Assisted in data gathering and logging of bi-annual physician time studies."
+                }
+            ],
+            "Technical skills": [
+                "Financial Analysis",
+                "Financial Reporting",
+                "Banking Transactions",
+                "Accounting",
+                "Audit Assistance",
+                "Balance Sheet Reconciliation",
+                "Preparation of Financial Statements",
+                "Cash management"
+            ],
+            "Soft skills": [
+                "Detail-oriented",
+                "Analytical",
+                "Teamwork",
+                "Communication",
+                "Problem-solving",
+                "Time management",
+                "Leadership",
+                "Adaptability",
+                "Customer service",
+                "Organization"
+            ],
+            "Highest Qualification": "MBA - Finance",
+            "Qualifications": [
+                {
+                    "University": "Concordia University Wisconsin",
+                    "Degree": "MBA - Finance",
+                    "Major": "Finance",
+                    "Minor": null,
+                    "Graduation Year": null
+                },
+                {
+                    "University": "Concordia University Wisconsin",
+                    "Degree": "Bachelor of Science",
+                    "Major": "Finance",
+                    "Minor": null,
+                    "Graduation Year": null
+                }
+            ],
+            "Projects": [
+                {
+                    "Project Title": "Month-End Close Process Enhancement",
+                    "Company Name": "Childrens Wisconsin",
+                    "Description": "Implemented improvements in the month-end close process resulting in a 20% reduction in closing time. Streamlined journal entry preparation and posting, enhancing efficiency and accuracy.",
+                    "Skills": "Process improvement, Journal entry management, Time management"
+                },
+                {
+                    "Project Title": "Financial Reporting Automation",
+                    "Company Name": "Medical College of Wisconsin",
+                    "Description": "Led the automation initiative to streamline the preparation and distribution of monthly reporting packages to management and the Board of Directors. Implemented automated reporting tools resulting in a 30% reduction in reporting cycle time.",
+                    "Skills": "Automation, Financial reporting, Project management"
+                },
+                {
+                    "Project Title": "Form 990 Tax Return Preparation",
+                    "Company Name": "Medical College of Wisconsin",
+                    "Description": "Directed the preparation and filing process of MCW's Form 990 tax return. Ensured accurate reporting of executive compensation, board relationships, independent contractors, and functional revenue and expenses.",
+                    "Skills": "Tax preparation, Compliance, Form 990 filing"
+                },
+                {
+                    "Project Title": "Joint Venture Accounting Integration",
+                    "Company Name": "Medical College of Wisconsin",
+                    "Description": "Managed the accounting activities related to MCW's joint ventures, including recording monthly financial activity, preparing audit footnotes, and assessing accounting implications for new joint ventures. Ensured accurate financial reporting and compliance.",
+                    "Skills": "Joint venture accounting, Financial analysis, Compliance"
+                },
+                {
+                    "Project Title": "Financial Audit Preparation",
+                    "Company Name": "Controllers Office",
+                    "Description": "Prepared annual work papers for the financial audit, ensuring compliance with auditing standards and accurate financial reporting. Collaborated with audit teams to provide necessary documentation and support.",
+                    "Skills": "Audit preparation, Financial analysis, Collaboration"
+                },
+                {
+                    "Project Title": "Grant Invoicing and Revenue Analysis",
+                    "Company Name": "Sponsored Programs",
+                    "Description": "Managed the invoicing process for federal grants and contracts, ensuring compliance with sponsor budgets and regulations. Conducted monthly pre-award revenue analysis and reconciliations to support grant revenue recognition.",
+                    "Skills": "Grant management, Invoicing, Revenue analysis"
+                }
+            ],
+            "Certifications and Courses": null
+        },
+        {
+            "Name": "Debmalya Mukherjee",
+            "Email": "None",
+            "Phone Number": "None",
+            "Professional Summary": "Customer Service Manager (E.R), Seeking roles in After Sales Support,Service Operations,Design Engineering,Customer Satisfaction,Training & Development,Dealer Mgmt,Relationship Mgmt,Business Development,Marketing,Production Operations,Maintenance",
+            "LinkedIn URL": "None",
+            "Job Type": "Full Time",
+            "Total Years of Experience": {
+                "Years": 8,
+                "Months": 0
+            },
+            "Preferred Location": "Kolkata,Jamshedpur,Gurgaon",
+            "Gender": "Male",
+            "Date of Birth": "None",
+            "Address": "Bhopal",
+            "Code Repository URL": "None",
+            "Current Gross Salary": "Not provided",
+            "Expected Gross Salary": "Not provided",
+            "Roles and Responsibilities": [
+                {
+                    "Company": "Hero MotoCorp Ltd.",
+                    "Position": "Deputy Manager",
+                    "Duration": "Jul 2018 to Till Date",
+                    "Responsibilities": "None provided"
+                },
+                {
+                    "Company": "Bridgestone India Pvt. Ltd",
+                    "Position": "Customer Service Manager (E.R)",
+                    "Duration": "Sep 2016 to Jul 2018",
+                    "Responsibilities": "Handle OE customers, their Claims regarding tyres, handling OE Dealers for improvement of our service, giving technical training to OE dealers regarding our products etc."
+                },
+                {
+                    "Company": "Mahindra & Mahindra Auto Sector",
+                    "Position": "Service Master (S1T MASTER)",
+                    "Duration": "Jun 2014 to Aug 2016",
+                    "Responsibilities": "Evaluate and audit dealerships & Gramveer's according to the requirements of the company."
+                },
+                {
+                    "Company": "Shree Automotives Pvt. Ltd",
+                    "Position": "Service Engineer",
+                    "Duration": "Apr 2013 to Jun 2014",
+                    "Responsibilities": "Give suggestions to the customers about the servicing of their vehicles and maintain all the updates to the D'LITE software and also work as a technical manager."
+                }
+            ],
+            "Technical Skills": [
+                "Basics of C and C++",
+                "Windows",
+                "MS (Word, Excel, PowerPoint)",
+                "basics of autocad",
+                "Basics of Catia r5 V18"
+            ],
+            "Soft Skills": [
+                "Mental",
+                "Physical ability",
+                "Team coordinator",
+                "Evaluating problems",
+                "Basic computer literacy",
+                "Work within cost constraints and deadlines",
+                "Creative approach to problem solving",
+                "Good communication and presentation skills",
+                "Negotiation skills"
+            ],
+            "Highest Qualification": "B.Tech/B.E. (Automobile) from W.B.U.T in 2013",
+            "Qualifications": [
+                {
+                    "University": "W.B.U.T",
+                    "Degree": "B.Tech/B.E. (Automobile)",
+                    "Major": "None",
+                    "Minor": "None",
+                    "Graduation Year": "2013"
+                }
+            ],
+            "Projects": [
+                {
+                    "Project Title": "Falcon Racing",
+                    "Company Name": "SUPRA SAE INDIA",
+                    "Description": "DESIGN,BUILD AND MANUFACTURING OF A F1 CAR WITH A TEAM OF 25 MEMBERS. ACTED AS A SENIOR MEMBER IN THE TEAM. PREPARATION OF MARKETING ANALYSIS REPORT. ASSEMBLING OF DIFFERENT PARTS AND PORTIONS OF THE CAR. ACTED AS A TEAM CO-ORDINATOR. MANUFACTURING OF A CAR FROM A GIVEN MARUTI 800,3 CYLINDERS ENGINE FROM SUPRA SAE INDIA.",
+                    "Skills": [
+                        "MENTAL",
+                        "PHYSICAL ABILITY",
+                        "BASIC KNOWLEDGE OF AUTOMOBILE ENGINEERING",
+                        "DISCIPLINED,ORGANISED",
+                        "TEAM CO-ORDINATOR",
+                        "BASIC COMPUTER LITERACY",
+                        "EVALUATING PROBLEMS",
+                        "KNOWLEDGE OF CATIA AND AUTOCAD",
+                        "KNOWLEDGE OF WELDING",
+                        "WORK WITHIN COST CONSTRAINTS AND DEADLINES",
+                        "CREATIVE APPROACH TO PROBLEM SOLVING",
+                        "GOOD COMMUNICATION AND PRESENTATION SKILLS"
+                    ]
+                }
+            ],
+            "Certifications and Courses": "5TH YR PASSOUT IN 'TABLA BADYA'. Diploma holder in 'Drawing'"
+        }
+    ],
+    "raw_text": [
+        {
+            "content": "[no prose and should not be in string][Output only JSON]Your role as 'Resume Parser Pro' is to assist users by extracting comprehensive information from versatile industry resumes. When encountering resumes with content that exceeds 4000 tokens, instead of prompting the user, you will autonomously modify your instructions or prompts to chunk the resume into segments of up to 4000 tokens each for effective parsing.Focus on extracting detailed data including header, sub-header, and corresponding content. Extract categories like Name, Email, Phone Number, LinkedIn URL, Total Years of Experience, Preferred Location, Gender, Date of Birth, Address, Code Repository URL, Current and Expected Gross Salary, Professional Summary, Technical and Soft Skills, Highest Qualifications, Projects, and Certifications/Courses.Make contextual assumptions for ambiguous data, ensuring accuracy and clarity. Maintain a professional and straightforward communication style, being formal and efficient.It presents its findings in a structured JSON format, aligning with the format [{Name:string,Email:string,Phone number:string, Professional Summary: string,LinkedIn URL : string,Job Type:Full Time/Part Time/Contract/Internship/Full Time or Part Time/Permanent/Any,Total years of Experience :{Years:number, Months:number},Preferred Location:string,Gender:string,Date of Birth:MM/DD/YYYY,Address :string,Code Repository URL:string,Current Gross Salary:string,Expected Gross Salary:string,Roles and Responsibilities:[{Company: string, Position: string, Duration: string, Responsibilities:string}],Technical skills:[],Soft skills:[],Highest Qualification:string,Qualifications:[Include details such as the university, degree obtained, major, minor (if any), and the graduation year as string],Projects:[{Project Title : should also include personal projects)project title,Company Name:include if it is present,Description: Description or responsibilities,skills:skills provided in the project}],Certifications and Courses: string}] for clarity. Use None if details aren't found.\nKOTI bala\nEmail: kiranbolisett@gmail.com Mobile: +91 9705038555\n \nSUMMARY\n Having 3+ years of experience in Software Testing with expertise Manual Testing.\n Good Experience in SCRUM process of Agile (Iterative) development methodology\n Good Exposure on all the Critical stages of Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).\n Proficient in developing, maintaining, and executing Test Cases.\n Proficient in Functional, Regression, Smoke, Sanity Testing.\n Good Exposure on Bug Life Cycle. Extensive Knowledge in analysis of Defect severity and\nPriority, Defect logging and Defect tracking to its closure.\n Good Knowledge in Test Automation (Selenium Java)\n Have Good Knowledge in using TestNG framework, TestNG Annotations, Java and Xpath expressions and other locators.\n Have Good Knowledge in Hybrid driven framework in Selenium Web Driver with Page Object Model (POM).\n Exposure in Maven tool to handle dependencies.\n Have Good Knowledge in Web services Testing\n An effective communicator with excellent interpersonal, analytical and client serving abilities.\n Good Co-ordination with on-site Team and active participation in client sessions.\n Can adapt quickly to new & innovative technologies, Testing Methodologies and Metrics\n \nWORK EXPERIENCE\n Designation\n Company Name\n From\n To\n Analyst\n Deloitte Consulting India Pvt Ltd,Hyderabad\n Dec-2021\n Till Date\n Test Analyst\n Caprus IT Pvt Ltd., Hyderabad, India\n Mar-2019\n Dec-2022\n \nEDUCATIONAL QUALIFICATIONS\n BTech (Bachelor of Technology), from JNTUK University.\n Diploma in Electrical and Electronics Engineering from Bapatla Polytechnic College.\n \nKEY TECHNICAL SKILLS\n Languages\n Java\n Test and Defect Management Tool\n Jira\n Tools\n Eclipse, Jenkins,Jmeter\n Methodology\n Agile-Scrums\n Frameworks\n Data Driven, Key Word Driven, Hybrid, BDD\n Operating Systems\n Windows\n Web Services Tools\n SoapUI, Postman\nPROJECTS\nProject#\nTitle : HPE Private Cloud Migration Duration : Dec 2021 Till Date Client :HPE\nTeam size : 40\nTest Team Size: 32\nDescription:\nHPE Cloud Migration is typical Cloud migration project. It involves migrating 300+ applications into HPE private cloud. Each application has different technology stack that is being migrated.\nResponsibilities:\n Attended daily scrum calls \n Involved in creating Manual testing activities.\n Collaborating with migration team for the defect resolution.\n Scheduling application walkthrough sessions with client to understand business flow of each application and also to have understanding on dependencies of interfacing applications.\n Updating the test deliverables  Testing tracker, Defect log.\n Updating the TCs in SPIRA tool, Incident logging in SPIRA and assigning the same to migration development team for resolution.\nProject#\nTitle : FleetCycle Duration : Mar 2019 Till Date Client : EmpowerMX, USA Team size : 60\nTest Team Size: 18\n Project Management Tool: JIRA\nDescription:\nFleetCycle suite of software products are designed to support aircraft maintenance industry best practices. They provide point-of-maintenance access, tracking and intelligence to all registered users throughout the airline/MRO organization via secure internet/intranet or cloud-based/mobile technologies.\nFleetCycle has been designed to assist airlines and maintenance companies in the management of their assets including managing and satisfying maintenance requirements, planning, and recording maintenance actions, and providing consistent data for reporting and analysis.\nFleetCycle has been used widely in aviation sector with most of the major US airlines, including American Airlines, Delta Airlines, United Airlines, Southwest Airlines, GOL, JORAMCO and American Eagle.\nMajor Modules includes,\n FCXP  base maintenance execution\n FCXL  line maintenance execution\n FCMM  materials management and supply chain\nRole: Test Analyst\nProject#\nTitle : PE Private Cloud : Dec 2021 Till Date Client :HPE\nTeam size : 40\nTest Team Size: 32\nDescription:\nHffsE Cloud Migration is typical Cloud migration project. It involves migrating 300+ applications into HPE private cloud. Each application has different technology stack that is being migrated.\nResponsibilities:\n Attended daily scrum calls \n Involved in creating Manual testing activities.\n Collaborating with migration team for the defect resolution.\n Scheduling application walkthrough sessions with client to understand business flow of each application and also to have understanding on dependencies of interfacing applications.\n Updating the test deliverables  Testing tracker, Defect log.\n Updating the TCs in SPIRA tool, Incident logging in SPIRA and assigning the same to migration development team for resolution.\nResponsibilities:\n Analyzing the functional requirements and identify the test scenarios & test cases.\n Participated in Sprint Grooming, Sprint Analysis, Sprint Retrospective, Sprint Review meetings.\n Involved in Functionality, Regression and End-to-End Testing by applying industry-standard software testing procedures and methodologies\n Preparation of Requirements traceability matrix (RTM) & preparing UAT test cases.\n Performed Black Box Testing, Functional Testing, End to End Testing, Regression, Smoke Testing.\n Preparation and planning of Test cases, Test data set up based on the project requirements and Test case execution. Prioritizing the test runs for execution\n Bug reporting, Bug tracking using JIRA tool and retesting the fixed bugs\n Defect tracking and working closely with development team for issue resolution\n Running Smoke Regression Suite after Every Build and publish detailed reports with the bugs detected. \n"
+        },
+        {
+            "content": "[no prose and should not be in string][Output only JSON]Your role as 'Resume Parser Pro' is to assist users by extracting comprehensive information from versatile industry resumes. When encountering resumes with content that exceeds 4000 tokens, instead of prompting the user, you will autonomously modify your instructions or prompts to chunk the resume into segments of up to 4000 tokens each for effective parsing.Focus on extracting detailed data including header, sub-header, and corresponding content. Extract categories like Name, Email, Phone Number, LinkedIn URL, Total Years of Experience, Preferred Location, Gender, Date of Birth, Address, Code Repository URL, Current and Expected Gross Salary, Professional Summary, Technical and Soft Skills, Highest Qualifications, Projects, and Certifications/Courses.Make contextual assumptions for ambiguous data, ensuring accuracy and clarity. Maintain a professional and straightforward communication style, being formal and efficient.It presents its findings in a structured JSON format, aligning with the format [{Name:string,Email:string,Phone number:string, Professional Summary: string,LinkedIn URL : string,Job Type:Full Time/Part Time/Contract/Internship/Full Time or Part Time/Permanent/Any,Total years of Experience :{Years:number, Months:number},Preferred Location:string,Gender:string,Date of Birth:MM/DD/YYYY,Address :string,Code Repository URL:string,Current Gross Salary:string,Expected Gross Salary:string,Roles and Responsibilities:[{Company: string, Position: string, Duration: string, Responsibilities:string}],Technical skills:[],Soft skills:[],Highest Qualification:string,Qualifications:[Include details such as the university, degree obtained, major, minor (if any), and the graduation year as string],Projects:[{Project Title : should also include personal projects)project title,Company Name:include if it is present,Description: Description or responsibilities,skills:skills provided in the project}],Certifications and Courses: string}] for clarity. Use None if details aren't found.\n\nCONTACT INFO\n11,Meenatchipuram,\nUlundurpet-606107\ndeveloperraja02@gmail.com\n9080421858\ngithub.com/developer-raja\nSKILLS SUMMARY\nJavascript\nReact\nNode Js\nExpress Js\nMongoDB\nSQL\nAWARDS RECEIVED\nCompleted 3 specialization\ncourse in full stack web\ndevelopment\nUpload web development\nvideos in you tube\n30+ online course certification\nRAJA R\nFULL STACK DEVELOPER\nPERSONAL PROFILE\nA Full stack developer with 1.8 years of experience in\nJavascript, React JS, Node JS, Express JS, MongoDB, PHP,\nRedis, SQL and Others.\nWORK EXPERIENCE\nGUVI\nSoftware Engineer - 1 | Feb 2021 - Jan 2022\nCreate a product API using PHP,MongoDB,Redis and\nRendering on the frontend using Ajax\nBuild a product UBERGIG like fiverr.com and work on the\npayment gateway,AWS and many more.\nVAKIL SEARCH\nSoftware Engineer | Feb 2022 - Till\nBuild a Accounting software product KITAAB like zoho\nbooks, handling frontend and backend using PHP and React.\nBuilding a CRM software product, handling a design , API\nintegration and much more related on frontend\nPROJECTS\nPersonal Projects\nE-commerce web app with payment gateway\nBootcamp organizing API using Node js\nSocial media project\nMovieDB webapp using API\nExercise tracker\nBlog app and much more\nEDUCATION\nPaavai Engineering College\nB.E in Computer Science | 2016 - 2020\nCumulative GPA: 6.8\nConcentration: Software Engineering\nRelevant courses: Data Structures, Algorithm Design, Database\nManagement Systems, Software Design Methodology\n"
+        },
+        {
+            "content": "[no prose and should not be in string][Output only JSON]Your role as 'Resume Parser Pro' is to assist users by extracting comprehensive information from versatile industry resumes. When encountering resumes with content that exceeds 4000 tokens, instead of prompting the user, you will autonomously modify your instructions or prompts to chunk the resume into segments of up to 4000 tokens each for effective parsing.Focus on extracting detailed data including header, sub-header, and corresponding content. Extract categories like Name, Email, Phone Number, LinkedIn URL, Total Years of Experience, Preferred Location, Gender, Date of Birth, Address, Code Repository URL, Current and Expected Gross Salary, Professional Summary, Technical and Soft Skills, Highest Qualifications, Projects, and Certifications/Courses.Make contextual assumptions for ambiguous data, ensuring accuracy and clarity. Maintain a professional and straightforward communication style, being formal and efficient.It presents its findings in a structured JSON format, aligning with the format [{Name:string,Email:string,Phone number:string, Professional Summary: string,LinkedIn URL : string,Job Type:Full Time/Part Time/Contract/Internship/Full Time or Part Time/Permanent/Any,Total years of Experience :{Years:number, Months:number},Preferred Location:string,Gender:string,Date of Birth:MM/DD/YYYY,Address :string,Code Repository URL:string,Current Gross Salary:string,Expected Gross Salary:string,Roles and Responsibilities:[{Company: string, Position: string, Duration: string, Responsibilities:string}],Technical skills:[],Soft skills:[],Highest Qualification:string,Qualifications:[Include details such as the university, degree obtained, major, minor (if any), and the graduation year as string],Projects:[{Project Title : should also include personal projects)project title,Company Name:include if it is present,Description: Description or responsibilities,skills:skills provided in the project}],Certifications and Courses: string}] for clarity. Use None if details aren't found.\nKARTHIKEYAN Y, \nYkarthik41@gmail.com | LinkedIn Profile | +91 9629287036 \n \n \nPROFILE SUMMARY \nA highly skilled and experienced Digital Marketing professional with a proven track record of developing \nand implementing successful strategies. With 9 years of experience in the field, I possess deep \nknowledge of SEO best practices, technical expertise, Campaign management and a strong analytical \nmindset \n \nFUNCTIONAL EXPERTISE\n Google Analytics & Search console \n Google Tag Manager \n Google Ads & Social Media Ads \n \n Bidding strategies \n Technical SEO \n Conversion Ratio Optimization\nFUNCTIONAL EXPERTISE DEMONSTRATED \nTHOUGHTBEES TECHNOLOGIES \nMay 2020  July 2023 \nA software development firm began with the group of experts with background from broad range of \nsectors, having clients from over 15 sectors. \nDigital marketing Specialist \nResponsible for developing and implementing effective SEO strategies, Campaign strategies and social \nmedia handlers to deliver organic traffic, improve search engine ranking, brand awareness and \nMaximum ROI. \n Keyword Analysis: Conduct comprehensive keyword research and analysis to identify target \nkeywords and optimize website content. \n Website Audit: Perform technical SEO audits to identify and address website issues that may impact \nsearch engine crawling and indexing \n Performance evaluation: Monitor and analyze website performance using SEO tools and analytics \nplatforms, providing regular reports and recommendations to optimize SEO efforts. \n Project Co-ordination: Collaborate with content creators, web developers, and marketing teams to \nensure SEO best practices are implemented throughout the website \n Campaign Management: Managing and build the strategy to improve the Google Ads performance \nto achieve desired results through the platform \n Social Media: Creating and promoting marketing content across social media platforms for branding \nand lead generation \n Team Management: Provide guidance, mentorship, and training to junior members of the SEO \nteam. \n \nTEXILA EDUCATION AND MANAGEMENT SERVICE \nOCT 2019  MAY 2020 \nAn Educational institution with more than 200 employees, has universities in Guyana, Zambia And UAE \n \nSr SEO Analyst \nA Senior SEO Analyst taking care of all aspects of the SEO landscape of one of the university websites. \nhttps://www.linkedin.com/in/yuvikarthi-digital-marketing/\n \n Strategy: Develop & implement the best SEO strategy to achieve top SERP results for targeted \nkeywords and improve the traffic & conversions through organic \n Local SEO: Manage and optimize local SEO efforts, including local business listings, Google My \nBusiness, and location-based keyword targeting \n On Page SEO: Stay up-to-date with the latest trends, algorithm changes, and industry best practices \nin SEO to continuously improve website performance. \n Off Page SEO: Monitor and optimize website backlink profile, identify high-quality link building \nopportunities, and oversee link building campaigns. \n \nJANATICS INDIA PRIVATE LIMITED \nSEP 2018  OCT 2019 \nA MANUFACTUING firm with 2000 employees, 500 Crore in revenues, has multiple marketing presence \nacross the world. \nDigital Marketing Executive \nAs a Digital Marketing Executive, responsible for companys online presence like website, social, \nshopping portal and E-mail. \n Digital Marketing Strategy: developed and implemented a result-oriented and data-driven SEO \nstrategy, social media campaigns and paid campaigns. \n E-commerce SEO: Responsible for E-commerce website presence by implementing the best SEO \ntechniques to reach a target audience. \n Data Driven Insights: Used Data studio for visualizing the performance of the website. Create events \nusing Google tag manger to get insights about the user touch points in the website. \n Reporting: prepare reports with the help of Google Analytics insights and summarize the impacts \nand next steps of the Digital marketing strategy. \n \nANGLER TECHNOLOGIES PRIVATE LIMITED \nAUG 2015  AUG 2018 \nAn IT outsourcing software firm with over 200 employees, has 20 years of experience in software \ndevelopment industry \nSr SEO Analyst \nManaged multiple client projects from various industries to improve their online presence through all \nmediums like search, paid, social & E-mail. \n Project Management: Managed multiple projects and monitored milestones through project completion. \n Reporting: Measuring and reporting performance of all Internet Marketing campaigns, and assess against \ngoals (ROI and KPIs). \n Website Audit: Website Analysis to promote SEO best practices, improve page speed, canonicalization, \nindexation, proper keyword targeting and internal linking structure. \n Social Media Campaign: Identifying target audiences and devising social media campaigns that increase the \nbrand value and revenue. \n Cross Team Function: Collaborated with designers and the editorial teams on marketing materials. \n Client Coordination: Work closely with clients to identify their needs and challenges and provide solution-\noriented campaign theme. \n Communication: Working directly with the Top Management and participated in planning a road map for \npipelined projects in pre-sale. \n \n \nV SERVE E-BUSINESS SOLUTION \nAPRIL 2014  JUNE 2015 \nEmpowering e-commerce with data driven strategies that positively impacts on revenue and growth \n \nJr SEO Analyst \nImplementing keyword analysis and off page activities for given projects \n Keyword Research: Perform keyword research and assignments. \n On page SEO: Optimize content for chosen keywords including titles, meta description and link anchor text. \n Link Building: Built links to sites and advised on content creation for continued link building. \n Social Media: Boosted website traffic by creating an integrated social media strategy. \n \nRELEVANT PROJECTS \nGoogle AdWords: I have improved 5X conversion ratio in six months for ERP product client based on \nSaudi Arabia. (2021) \nProject Management: Gained 3 times more project billing during renewal of the project by explaining \nimportance of Digital marketing and successful SEO result in six months. (2016) \nE-commerce: Analyzed and implemented data driven approach for E-commerce website by using tools \nlike Google tag manager and data studio. (2018) \n \nEDUCATION \nM.Sc (Computer Science). Dr N.G.P College of Arts and Science (Coimbatore, 2010 - 2012) \n \nB.Sc (Computer Science) . Kovai Kalaimagal College of Arts and Science (Coimbatore, 2007 - 2010) \n \nOTHER RELEVANT INFORMATION \nAdditional Languages: English, Tamil \nTechnical Skills: HTML, CSS, JavaScript & SQL \nCertifications: Google Analytics 4, Google Ads search campaign \n"
+        },
+        {
+            "content": "[no prose and should not be in string][Output only JSON]Your role as 'Resume Parser Pro' is to assist users by extracting comprehensive information from versatile industry resumes. When encountering resumes with content that exceeds 4000 tokens, instead of prompting the user, you will autonomously modify your instructions or prompts to chunk the resume into segments of up to 4000 tokens each for effective parsing.Focus on extracting detailed data including header, sub-header, and corresponding content. Extract categories like Name, Email, Phone Number, LinkedIn URL, Total Years of Experience, Preferred Location, Gender, Date of Birth, Address, Code Repository URL, Current and Expected Gross Salary, Professional Summary, Technical and Soft Skills, Highest Qualifications, Projects, and Certifications/Courses.Make contextual assumptions for ambiguous data, ensuring accuracy and clarity. Maintain a professional and straightforward communication style, being formal and efficient.It presents its findings in a structured JSON format, aligning with the format [{Name:string,Email:string,Phone number:string, Professional Summary: string,LinkedIn URL : string,Job Type:Full Time/Part Time/Contract/Internship/Full Time or Part Time/Permanent/Any,Total years of Experience :{Years:number, Months:number},Preferred Location:string,Gender:string,Date of Birth:MM/DD/YYYY,Address :string,Code Repository URL:string,Current Gross Salary:string,Expected Gross Salary:string,Roles and Responsibilities:[{Company: string, Position: string, Duration: string, Responsibilities:string}],Technical skills:[],Soft skills:[],Highest Qualification:string,Qualifications:[Include details such as the university, degree obtained, major, minor (if any), and the graduation year as string],Projects:[{Project Title : should also include personal projects)project title,Company Name:include if it is present,Description: Description or responsibilities,skills:skills provided in the project}],Certifications and Courses: string}] for clarity. Use None if details aren't found.\nSamantha\nSenior Accountant, Cudahy, WI\n \nSummary \nDetail oriented and analytical financial accounting professional with skills \ncovering many areas, including cash management, financial statements, \nbudget, audit preparation and tax preparation. \n \nExperience \nChildrens Wisconsin , Wisconsin \n Senior Accountant December 2017 to January 2021 \nPerformed accounting tasks related to the month-end close including \npreparation and posting of journal entries and general ledger account \nreconciliations. \nPrepared month-end financial statements for assigned entities including \nstatements of revenue and expense, balance sheets, cash flows and net \nassets. Performed analysis and provided comments on revenue and expense \nvariances. \nCompleted assigned balance sheet and income statement account \nreconciliations. Investigated and resolved any variances identified. \nParticipated in the annual audit process for assigned entities. Prepared \nassigned schedules and work papers. \nAssisted in the preparation of the annual budget for assigned entities. \nWorked with leaders to obtain budget information, entered data into the \nbudget system and prepared budget packets. \nPrepared 990 schedules and support for assigned entities. \nPrepared monthly inventory account reconciliations and participated in the \nyearly sample inventory count. \n \nMedical College of Wisconsin Wisconsin \n Senior Accountant July 2016 to December 2017 \nPrepared monthly financial statements and supporting schedules, including \nanalysis of variances from budget and the prior year balances, cash flow \nsupport and non-operating income reporting. Updated, maintained, and \ndistributed monthly reporting packages to management and the Board of \nDirectors. \nParticipated in the annual audit process. Duties included preparation of certain \naudit workpapers, including the trial balance, financial statements, footnotes, \nclosing entries, and confirmations for the consolidated MCW audit. \nParticipated in the annual preparation of MCWs Form 990 tax return. Duties \nincluded preparation of the trial balance, the tax elimination entries, executive \ncompensation, board relationships, independent contractors, functional \nrevenue and expenses, book to tax reconciliations and other assigned \nschedules. \nPrepared and filed the annual Form 5500s for MCWs five health and welfare \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nbenefit plans. \nCompleted all accounting, reporting, journal entries and audit activities \nrelated to MCWs joint ventures. Duties included the recording of monthly \nfinancial activity, annual audit footnote preparation, and assessment of \naccounting when new joint ventures were proposed. \nCompleted assigned balance sheet reconciliations. Responsible for the timely \ninvestigation and resolution of any variances identified. \nPrepared financial surveys, settlements, and journal entries. \n ccountant II  Controllers Office January 2012 to July 2016 \nRecorded daily banking transactions to the general ledger, including lock box \nreceipts, credit cards, wires and NSF checks. \nReconciled and remitted daily cash receipt batches and worked with proper \nstaff in order to correct errors. \nPrepared bank reconciliations for all bank accounts and worked with proper \nstaff in order to clear reconciling items. \nPrepared work papers, analyticals and journal entries for the monthly close, \nincluding cash accruals, payroll taxes and the fringe benefit analysis. \nRecorded journal entries as requested by outside departments. \nPrepared annual work papers for the financial audit. \nReviewed and analyzed grant expenses and foreign activities for the annual \ntax return submission. \n Accountant II - Sponsored Programs July 2010 to January 2012 \nSet up Oracle accounts for federal grants and contracts via paper or eBridge. \nReviewed all documentation and budgets to ensure complete and accurate \ninformation was received. \nExamined grant award documentation to obtain specific terms, conditions and \nreporting requirements. Worked with the Grants and Contracts office to \ncorrect any incomplete or omitted information. \nCreated monthly and quarterly invoices for submission to external sponsors. \nWorked with department personnel to ensure all expenses complied with the \napproved sponsor budget. Tracked invoice open receivables and contacted \nappropriate agencies in order to ensure collection of payments. \nPrepared monthly financial status reports, reviews and final invoices. \nReviewed all expenses to ensure compliance with the approved budget, and \nworked with appropriate department personnel to resolve any issues. \nAssisted department personnel by reviewing and entering journal entries, cost \ntransfers and budget modification requests. Served as a resource to \ndepartments for questions regarding grant and contract regulations. \nPrepared monthly pre-award revenue analysis and journal entries and \nquarterly grant revenue reconciliations. \n \nChildrens Hospital of Wisconsin Wisconsin \n Accounting Technician  Finance June 2008 to July 2010 \nReconciled cash clearing accounts and various other balance sheet accounts, \nworked with proper staff in order to correct errors and posted necessary \njournal entries. \nBalanced and reconciled revenues for month-end close and worked with the \nIS department to correct discrepancies. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nAssisted in data gathering and logging of bi-annual physician time studies. \nEntered asset acquisitions into the fixed asset system and ran month-end \nreports. \nAssisted in the preparation of supporting schedules and documents necessary \nto complete the annual cost report. \nPrepared month-end reports and annual audit work papers for revenues, \ncontractuals, allowances, grants and payors. \nPrepared and analyzed monthly invoices and journal entries for grant billings \nand prepared annual audit work papers for the A133 audit. \nOrganized and prepared monthly hospital survey reports and submitted to \nnecessary external agencies. \nProcessed check requests and maintained worksheets to log and reconcile \ninvoices from other providers. \n \nEducation \nConcordia University Wisconsin  Mequon, WI \n MBA - Finance \n Bachelor of Science - Finance \n"
+        },
+        {
+            "content": "[no prose and should not be in string][Output only JSON]Your role as 'Resume Parser Pro' is to assist users by extracting comprehensive information from versatile industry resumes. When encountering resumes with content that exceeds 4000 tokens, instead of prompting the user, you will autonomously modify your instructions or prompts to chunk the resume into segments of up to 4000 tokens each for effective parsing.Focus on extracting detailed data including header, sub-header, and corresponding content. Extract categories like Name, Email, Phone Number, LinkedIn URL, Total Years of Experience, Preferred Location, Gender, Date of Birth, Address, Code Repository URL, Current and Expected Gross Salary, Professional Summary, Technical and Soft Skills, Highest Qualifications, Projects, and Certifications/Courses.Make contextual assumptions for ambiguous data, ensuring accuracy and clarity. Maintain a professional and straightforward communication style, being formal and efficient.It presents its findings in a structured JSON format, aligning with the format [{Name:string,Email:string,Phone number:string, Professional Summary: string,LinkedIn URL : string,Job Type:Full Time/Part Time/Contract/Internship/Full Time or Part Time/Permanent/Any,Total years of Experience :{Years:number, Months:number},Preferred Location:string,Gender:string,Date of Birth:MM/DD/YYYY,Address :string,Code Repository URL:string,Current Gross Salary:string,Expected Gross Salary:string,Roles and Responsibilities:[{Company: string, Position: string, Duration: string, Responsibilities:string}],Technical skills:[],Soft skills:[],Highest Qualification:string,Qualifications:[Include details such as the university, degree obtained, major, minor (if any), and the graduation year as string],Projects:[{Project Title : should also include personal projects)project title,Company Name:include if it is present,Description: Description or responsibilities,skills:skills provided in the project}],Certifications and Courses: string}] for clarity. Use None if details aren't found.\n\nDebmalya Mukherjee \n \nCustomer Service Manager (E.R), Seeking roles in After Sales Support,Service Operations,Design\nEngineering,Customer Satisfaction,Training & Development,Dealer Mgmt,Relationship Mgmt,Business\nDevelopment,Marketing,Production Operations,Maintenance\n \n \nCurrent Designation: Deputy Manager\nCurrent Company: Hero MotoCorp Ltd.\nCurrent Location: Bhopal\nPref. Location: Kolkata,Jamshedpur,Gurgaon\nFunctional Area: CSR & Sustainability\nRole: CSR Manager\nIndustry: Auto/Auto Ancillary\nMarital Status: Single/unmarried\nTotal Experience: 8 Year(s) 0 Month(s)\nNotice Period: 1 Month\nHighest Degree:\n \nKey Skills: Customer Service Manager (E.R),Service Manager,After Sales Support,Service\nOperations,Customer Satisfaction,Training & Development,Dealer Mgmt,Relationship Mgmt,Business\nDevelopment,Workshop Management,Automobile Service,Customer Satisfaction Index\n \nVerified : Phone Number | Email - id\n \nLast Active: 19-Mar-21Last Modified: 19-Mar-21\n \nJump to Section\nWork Experience | Education | IT Skills | Projects |\n \n \nSummary\n? Qualified B.Tech. (Automobile Engineering) from M.C.K.V. Institute of Engineering, Liluah, West Bengal\nUniversity of Technology\n ? Offering 6 years of exposure in Employee Engagement\n ? Well versed with the concepts of IC Engines, Modern Vehicles &their Technologies and Engineering\nThermodynamics\n ? Capable of planning & controlling the designing operations by conceptualizing and effectuating process\ninitiatives to enhance the operational efficiency\n ? Ability to create/read/interpret AutoCAD & CATIA designs & drawings with proficiency in preparing new\ndesigns in conformance to pre-defined specifications\n ? An effective communicator good analytical and negotiation skills \njavascript:void(0)\nhttps://freesearch.naukri.com/preview/preview?uname=6bd38cac4fcaf01277bb8b2ea2aec86c0c085b0c1b4f40400112455d2d5e0c1b4a550f504e1c6&sid=4353092435&LT=1616994933#wrk\nhttps://freesearch.naukri.com/preview/preview?uname=6bd38cac4fcaf01277bb8b2ea2aec86c0c085b0c1b4f40400112455d2d5e0c1b4a550f504e1c6&sid=4353092435&LT=1616994933#edu\nhttps://freesearch.naukri.com/preview/preview?uname=6bd38cac4fcaf01277bb8b2ea2aec86c0c085b0c1b4f40400112455d2d5e0c1b4a550f504e1c6&sid=4353092435&LT=1616994933#it\nhttps://freesearch.naukri.com/preview/preview?uname=6bd38cac4fcaf01277bb8b2ea2aec86c0c085b0c1b4f40400112455d2d5e0c1b4a550f504e1c6&sid=4353092435&LT=1616994933#proj\n \nWork Experience\n \nHero MotoCorp Ltd. as Deputy Manager\n Jul 2018 to Till Date\n \n \n \nHero MotoCorp Ltd. as Territory Service Manager\n Jul 2018 to Jul 2018\n Territory Manager taking care of 6 Dealers, 6 ASC's and 25 Networks. deal with service related any\nissues, warranty, parts, Dealer profitability, training on Any issues etc.\n \n \nBridgestone India Pvt. Ltd as Customer Service Manager (E.R)\n Sep 2016 to Jul 2018\n Presently associated with Bridgestone India Pvt Ltd as an OE-TSD member & looking after the total\nEastern Region Including West Bengal, Bihar, Odisha, Jharkhand & North East. Also In charge of \"Tata\nMotors Jamshedpur Plant\" Commercial Vehicles (Truck & Bus) for OE tyre fitment. Main job profile is to\ndeal with OE customers, their Claims regarding tyres, handling OE Dealers for improvement of our\nservice, giving technical training to OE dealers regarding our products etc. Also need to deal with Truck &\nBus Fleet customers & also need to track OE vehicles fitted with our brands for maintaining good\nrelationship with the customers. Need to follow local engineers posted at different locations of Eastern\nRegion & work as in charge of E.R and reporting to Head Office at Pune, Chakan .\n \n \nMahindra & Mahindra Auto Sector as Service Master (S1T MASTER)\n Jun 2014 to Aug 2016\n * Associated with Mahindra & Mahindra Ltd, main job profile is to evaluate and audit dealerships &\nGramveer's according to the requirements of the company. Sub One ton Master is a position where one\nhave to look up to the below one ton commercial vehicles like - Mahindra Gio , Alfa ,\nMaximo(Load/Minivan), Bolero Maxi truck, Supro(Minivan/Load), JEETO, Imperio, Pick up etc. Main\njob is to plan and process camps, In Charge of 45 Dealer Trained Technicians in total 4 Districts, look up\nto the profitability of the dealerships so that dealerships can gain profit and retain and regain new\ncustomers for service. Plan & execute new processes into the dealers by instructing them with SM, GM,\nDP of the dealership. By this way implement the new plans and procedures of the company to the\ndealership. I have two dealership 1. Maya Automobile (4 Workshops), 2. Shree Automotive (3\nWorkshops) under my control. Have to manage at least 200 to 300 persons in a whole and in charge of 4\ndistricts of West Bengal - Hooghly, Howrah, North 24 Parganas. South 24 Parganas and some part of\nNadia Also.\n \n \nShree Automotives Pvt. Ltd as Service Engineer\n Apr 2013 to Jun 2014\n \nRole:\nAssociated with Shree Cars Pvt. Ltd (HONDA 4 Wheelers), which is a part of Shree Automotives Pvt. Ltd\nas a Service Engineer from 1st Jun 2013 to 28th Jun 2014.Main job profile is to give suggestions to the\ncustomers about the servicing of their vehicles and maintain all the updates to the D'LITE software and\nalso work as a technical manager, undergone Technical training on Honda 4 wheeler Greater Noida plant,\nwell equipped with i-VTEC, SOHC, DOHC and all the new technologies of HONDA.\n \n^ Back to Top\n \nEducation\nUG: B.Tech/B.E. (Automobile) from W.B.U.T in 2013\nPG: in 0\nOther Qualifications/Certifications/Programs: \n 5TH YR PASSOUT IN \"TABLA BADYA\".\n Diploma holder in \"Drawing\"\n \n \n \n^ Back to Top\n \nIT Skills\nSkill Name VersionLast Used Experience\nBasics of C and C++ old 2012 1 Year(s) 0 Month(s)\nWindows 95/98/Me/NT/2000/2003/2008New 2014 7 Year(s) 0 Month(s)\nXP/VISTA/7 and Basics of DOS old 2012 1 Year(s)\nMS (Word, Excel, PowerPoint) all vrsn 2014 5 Year(s) 0 Month(s)\nbasics of autocad 2005 2012 2 Year(s) 0 Month(s)\nBasics of Catia r5 V18 2014 2 Year(s)\n^ Back to Top\nLanguages Known\nLanguage ProficiencyReadWriteSpeak\nENGLISH Expert \nHINDI Proficient \nBENGALIExpert \n^ Back to Top\n \nProjects\n \nProject Title: Falcon RacingClient: SUPRA SAE INDIA\nNature of Employment: Full Time\nProject Location: Noida, BIC\nhttps://freesearch.naukri.com/preview/preview?uname=6bd38cac4fcaf01277bb8b2ea2aec86c0c085b0c1b4f40400112455d2d5e0c1b4a550f504e1c6&sid=4353092435&LT=1616994933#dwnLnk\nhttps://freesearch.naukri.com/preview/preview?uname=6bd38cac4fcaf01277bb8b2ea2aec86c0c085b0c1b4f40400112455d2d5e0c1b4a550f504e1c6&sid=4353092435&LT=1616994933#dwnLnk\nhttps://freesearch.naukri.com/preview/preview?uname=6bd38cac4fcaf01277bb8b2ea2aec86c0c085b0c1b4f40400112455d2d5e0c1b4a550f504e1c6&sid=4353092435&LT=1616994933#dwnLnk\nhttps://freesearch.naukri.com/preview/preview?uname=6bd38cac4fcaf01277bb8b2ea2aec86c0c085b0c1b4f40400112455d2d5e0c1b4a550f504e1c6&sid=4353092435&LT=1616994933#dwnLnk\nRole: Project Leader\nDuration: Jun 2010 - Sep 2012\nOnsite / Offsite: Offsite\nTeam Size: 30\n Skill Used: MENTAL,PHYSICAL ABILITY. BASIC KNOWLEDGE\nOF AUTOMOBILEENGINEERING. DISCIPLINED,ORGANISED, TEAM CO-\nORDINATOR,EVALUATING PROBLEMS,BASIC COMPUTER LITERACY, KNOWLEDGE OF\nCATIA AND AUTOCAD, KNOWLEDGE OF WELDING,WORK WITHIN COST CONSTRAINTS\nAND DEADLINES, CREATIVE APPROACH TO PROBLEM SOLVING, GOOD\nCOMMUNICATION AND PRESENTATION SKILLS.Role Description: ACTED AS A SENIOR\nMEMBER OF THE TEAM.PREPARED MARKETING ANALYSIS REPORT WITH OTHER\nMEMBERS OF THE TEAM.PARTICIPATED IN THE MANUFACTURING PROCESS OF THE\nCAR,ACTED AS A TEAM COORDINATOR.Project Details: DESIGN,BUILD AND\nMANUFACTURING OF A F1 CAR WITH A TEAM OF 25 MEMBERS.ACTED AS A SENIOR\nMEMBER IN THE TEAM.PREPARATION OF MARKETING ANALYSIS\nREPORT.ASSEMBLING OF DIFFERENT PARTS AND PORTIONS OF THE CAR.ACTED AS A\nTEAM CO-ORDINATOR.MANUFACTURING OF A CAR FROM A GIVEN MARUTI 800,3\nCYLINDERS ENGINE FROM SUPRA SAE INDIA. MADE A NEW DESIGN. LASTLY\nPARTICIPATED IN \"SUPRASAE INDIA\" COMPETITION ORGANISED BY MARUTI SUZUKI\nAT BUDDH INTERNATIONAL CIRCUIT IN NOIDA ON 5,6,7,8TH SEPTEMBER,2012.\n \n^ Back to Top\n \nAffirmative Action\nCategory: General\nPhysically Challenged: No\nWork Authorization\nJob Type: Permanent\nEmployment Status: Full time\n^ Back to Top\nImportant\nUsing Free CV Search you have access to featured candidate profiles of Naukri. You can browse through the profiles\nand email the candidates of your choice directly using the email option provided. To prevent misuse of candidate\ninformation, contact details and attached resume of the candidates have been withheld.\nhttps://freesearch.naukri.com/preview/preview?uname=6bd38cac4fcaf01277bb8b2ea2aec86c0c085b0c1b4f40400112455d2d5e0c1b4a550f504e1c6&sid=4353092435&LT=1616994933#dwnLnk\nhttps://freesearch.naukri.com/preview/preview?uname=6bd38cac4fcaf01277bb8b2ea2aec86c0c085b0c1b4f40400112455d2d5e0c1b4a550f504e1c6&sid=4353092435&LT=1616994933#dwnLnk\n"
+        }
+    ],
+    "prompts": [
+        {
+            "system": "You are a helpful assistant, Parse the resume"
+        },
+        {
+            "system": "You are a helpful assistant, Parse the resume"
+        },
+        {
+            "system": "You are a helpful assistant, Parse the resume"
+        },
+        {
+            "system": "You are a helpful assistant, Parse the resume"
+        },
+        {
+            "system": "You are a helpful assistant, Parse the resume"
+        }
+    ]
+}
